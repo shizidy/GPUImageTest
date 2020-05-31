@@ -1,0 +1,18 @@
+//
+//  GPUImageTest.pch
+//  GPUImageTest
+//
+//  Created by wdyzmx on 2020/5/31.
+//  Copyright © 2020 wdyzmx. All rights reserved.
+//
+
+#ifndef GPUImageTest_pch
+#define GPUImageTest_pch
+
+#define kScreenWidth UIScreen.mainScreen.bounds.size.width
+#define kScreenHeight UIScreen.mainScreen.bounds.size.height
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* GPUImageTest_pch */
